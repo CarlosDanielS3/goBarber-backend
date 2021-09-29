@@ -30,7 +30,7 @@ Podem ser cadastrados novos `appointments`, aos quais possuem um `id`, `provider
 - express
 - typeORM
 - postgres
-- jwt
+- jwt 
 - bcrypt
 - multer
 - eslint
