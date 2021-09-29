@@ -1,2 +1,2 @@
-# GoStack11
+# GoBarber-Backend
  :rocket:
