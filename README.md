@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="GoBarber" src="https://github.com/CarlosDanielS3/GoBarber-Backend/blob/main/readme-logo.svg" width="200px"/>
+  <img alt="GoBarber" src="https://github.com/CarlosDanielS3/goBarber-backend/blob/main/readme-logo.svg" width="200px"/>
 </h3>
 
 <h1 align="center">
@@ -9,9 +9,9 @@
 <p align="center">Back-end em Node.js da aplicação GoBarber.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CarlosDanielS3/GoBarber-Backend">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CarlosDanielS3/GoBarber-Backend">
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/CarlosDanielS3/GoBarber-Backend">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CarlosDanielS3/goBarber-backend">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CarlosDanielS3/goBarber-backend">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/CarlosDanielS3/goBarber-backend">
 </p>
 
 ## Sobre:
@@ -41,7 +41,7 @@ Podem ser cadastrados novos `appointments`, aos quais possuem um `id`, `provider
 Na primeira vez que for utilizar, faça um clone deste repositório:
 
 ```bash
-$ git clone https://github.com/CarlosDanielS3/GoBarber-Backend
+$ git clone https://github.com/CarlosDanielS3/goBarber-backend
 ```
 
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
