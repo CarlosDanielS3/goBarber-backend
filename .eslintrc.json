@@ -17,7 +17,17 @@
   },
   "plugins": ["@typescript-eslint", "prettier"],
   "rules": {
+    "no-underscore-dangle": "off",
+    "@typescript-eslint/camelcase": "off",
+    "@typescript-eslint/no-unsed-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "_"
+      }
+    ],
     "linebreak-style": 0,
+    "class-methods-use-this": "off",
+    "semi": [2, "always"],
     "prettier/prettier": "error",
     "import/extensions": [
       "error",
