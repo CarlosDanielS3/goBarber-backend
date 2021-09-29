@@ -41,7 +41,7 @@ Podem ser cadastrados novos `appointments`, aos quais possuem um `id`, `provider
 Na primeira vez que for utilizar, faça um clone deste repositório:
 
 ```bash
-$ git clone https://github.com/gianferreira/goBarber-backend
+$ git clone https://github.com/CarlosDanielS3/GoBarber-Backend
 ```
 
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
