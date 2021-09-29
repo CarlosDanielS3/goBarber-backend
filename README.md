@@ -53,7 +53,7 @@ yarn
 Criar uma base de dados e configurar em `ormconfig.json`.
 Para iniciar o servidor:
 
-```bash
+```bash 
 yarn dev:server
 ```
 
